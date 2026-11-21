@@ -6,7 +6,7 @@
     "online_version": "2026.11.19-1",
     "build_version": "2026.11.19-1",
     "platform": "unpkg",
-    "create_at": "2026-11-21T01:13:58.696Z"
+    "create_at": "2026-11-21T06:58:09.655Z"
   },
   "version": {
     "plugin_ver": "5.4.3",
@@ -57,7 +57,7 @@
       "srvModSrcIndex": ""
     },
     "html_content": "<!doctype html><html lang=\"en\">\n<script type=\"module\" crossorigin src=\"/libs-wujie2-tabs-vue3/hel_dist/assets/index-DfEMUQvm.js\"></script>\n<link rel=\"stylesheet\" crossorigin href=\"/libs-wujie2-tabs-vue3/hel_dist/assets/index-CDKVYwUw.css\">\n<meta charset=\"utf-8\"><title>libs-wujie2-tabs-vue3</title></html>\n",
-    "create_at": "2026-11-21T01:13:58.696Z",
+    "create_at": "2026-11-21T06:58:09.655Z",
     "desc": "this version meta is created by hel-dev-utils@5.4.3"
   }
 }
