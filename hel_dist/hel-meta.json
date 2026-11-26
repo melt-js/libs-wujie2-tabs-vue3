@@ -6,7 +6,7 @@
     "online_version": "2026.11.24-1",
     "build_version": "2026.11.24-1",
     "platform": "unpkg",
-    "create_at": "2026-11-26T04:34:43.238Z"
+    "create_at": "2026-11-26T05:43:02.282Z"
   },
   "version": {
     "plugin_ver": "5.4.3",
@@ -23,7 +23,7 @@
         "/libs-wujie2-tabs-vue3/hel_dist/assets/index-CDKVYwUw.css"
       ],
       "chunkJsSrcList": [
-        "/libs-wujie2-tabs-vue3/hel_dist/assets/index-DrgYboB5.js"
+        "/libs-wujie2-tabs-vue3/hel_dist/assets/index-J0s9k3Zl.js"
       ],
       "staticCssSrcList": [],
       "staticJsSrcList": [],
@@ -34,7 +34,7 @@
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "/libs-wujie2-tabs-vue3/hel_dist/assets/index-DrgYboB5.js",
+            "src": "/libs-wujie2-tabs-vue3/hel_dist/assets/index-J0s9k3Zl.js",
             "type": "module",
             "crossorigin": ""
           }
@@ -56,8 +56,8 @@
       "srvModSrcList": [],
       "srvModSrcIndex": ""
     },
-    "html_content": "<!doctype html><html lang=\"en\">\n<script type=\"module\" crossorigin src=\"/libs-wujie2-tabs-vue3/hel_dist/assets/index-DrgYboB5.js\"></script>\n<link rel=\"stylesheet\" crossorigin href=\"/libs-wujie2-tabs-vue3/hel_dist/assets/index-CDKVYwUw.css\">\n<meta charset=\"utf-8\"><title>libs-wujie2-tabs-vue3</title></html>\n",
-    "create_at": "2026-11-26T04:34:43.238Z",
+    "html_content": "<!doctype html><html lang=\"en\">\n<script type=\"module\" crossorigin src=\"/libs-wujie2-tabs-vue3/hel_dist/assets/index-J0s9k3Zl.js\"></script>\n<link rel=\"stylesheet\" crossorigin href=\"/libs-wujie2-tabs-vue3/hel_dist/assets/index-CDKVYwUw.css\">\n<meta charset=\"utf-8\"><title>libs-wujie2-tabs-vue3</title></html>\n",
+    "create_at": "2026-11-26T05:43:02.282Z",
     "desc": "this version meta is created by hel-dev-utils@5.4.3"
   }
 }
