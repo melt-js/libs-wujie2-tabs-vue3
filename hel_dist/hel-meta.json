@@ -3,17 +3,17 @@
     "name": "libs-wujie2-tabs-vue3",
     "app_group_name": "libs-wujie2-tabs-vue3",
     "git_repo_url": "",
-    "online_version": "2026.11.19-1",
-    "build_version": "2026.11.19-1",
+    "online_version": "2026.11.24-1",
+    "build_version": "2026.11.24-1",
     "platform": "unpkg",
-    "create_at": "2026-11-22T19:44:32.584Z"
+    "create_at": "2026-11-26T04:34:43.238Z"
   },
   "version": {
     "plugin_ver": "5.4.3",
     "extract_mode": "build",
     "sub_app_name": "libs-wujie2-tabs-vue3",
-    "sub_app_version": "libs-wujie2-tabs-vue3@2026.11.19-1",
-    "version_tag": "2026.11.19-1",
+    "sub_app_version": "libs-wujie2-tabs-vue3@2026.11.24-1",
+    "version_tag": "2026.11.24-1",
     "src_map": {
       "webDirPath": "/libs-wujie2-tabs-vue3/hel_dist",
       "htmlIndexSrc": "/libs-wujie2-tabs-vue3/hel_dist/index.html",
@@ -23,7 +23,7 @@
         "/libs-wujie2-tabs-vue3/hel_dist/assets/index-CDKVYwUw.css"
       ],
       "chunkJsSrcList": [
-        "/libs-wujie2-tabs-vue3/hel_dist/assets/index-BRmHJLcu.js"
+        "/libs-wujie2-tabs-vue3/hel_dist/assets/index-DrgYboB5.js"
       ],
       "staticCssSrcList": [],
       "staticJsSrcList": [],
@@ -34,7 +34,7 @@
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "/libs-wujie2-tabs-vue3/hel_dist/assets/index-BRmHJLcu.js",
+            "src": "/libs-wujie2-tabs-vue3/hel_dist/assets/index-DrgYboB5.js",
             "type": "module",
             "crossorigin": ""
           }
@@ -56,8 +56,8 @@
       "srvModSrcList": [],
       "srvModSrcIndex": ""
     },
-    "html_content": "<!doctype html><html lang=\"en\">\n<script type=\"module\" crossorigin src=\"/libs-wujie2-tabs-vue3/hel_dist/assets/index-BRmHJLcu.js\"></script>\n<link rel=\"stylesheet\" crossorigin href=\"/libs-wujie2-tabs-vue3/hel_dist/assets/index-CDKVYwUw.css\">\n<meta charset=\"utf-8\"><title>libs-wujie2-tabs-vue3</title></html>\n",
-    "create_at": "2026-11-22T19:44:32.584Z",
+    "html_content": "<!doctype html><html lang=\"en\">\n<script type=\"module\" crossorigin src=\"/libs-wujie2-tabs-vue3/hel_dist/assets/index-DrgYboB5.js\"></script>\n<link rel=\"stylesheet\" crossorigin href=\"/libs-wujie2-tabs-vue3/hel_dist/assets/index-CDKVYwUw.css\">\n<meta charset=\"utf-8\"><title>libs-wujie2-tabs-vue3</title></html>\n",
+    "create_at": "2026-11-26T04:34:43.238Z",
     "desc": "this version meta is created by hel-dev-utils@5.4.3"
   }
 }
